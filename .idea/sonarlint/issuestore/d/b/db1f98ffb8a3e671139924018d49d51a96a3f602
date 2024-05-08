@@ -1,0 +1,12 @@
+
+l
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ä×Óù8ÕĞÃõ1
+G	java:S106"+Replace this use of System.out by a logger.(Ùÿÿé8ßĞÃõ1
+L	java:S106"+Replace this use of System.out by a logger.(“²Äúÿÿÿÿ8àĞÃõ1
+G	java:S106 "+Replace this use of System.out by a logger.(ªÏ¶¥8àĞÃõ1
+L	java:S106""+Replace this use of System.out by a logger.(«ô²Ÿøÿÿÿÿ8áĞÃõ1
+L	java:S106%"+Replace this use of System.out by a logger.(…Ê¿àúÿÿÿÿ8âĞÃõ1
+L	java:S106'"+Replace this use of System.out by a logger.(‹÷Êúÿÿÿÿ8âĞÃõ1
+F	java:S106;"+Replace this use of System.out by a logger.(‹Æˆ}8æĞÃõ1
+L	java:S106="+Replace this use of System.out by a logger.(´•ê‹øÿÿÿÿ8æĞÃõ1
+E	java:S108A")Either remove or fill this block of code.(Úîø›8çĞÃõ1
